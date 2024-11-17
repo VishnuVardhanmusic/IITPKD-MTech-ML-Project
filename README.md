@@ -13,3 +13,6 @@ datasets via finding correlations and interdependencies. Plot the insights with
 appropriate charts. Examine the learning algorithms performances to the given 
 input. Suggest what changes to be done to the hyperparameters so that the 
 accuracy gets enhanced. Illustrate real time predictions by the built model. 
+
+## Project Report 
+<a href="/Project Report.pdf">Project Report</a>
